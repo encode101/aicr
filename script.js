@@ -2,4 +2,4 @@ function sayHello() {
   return "Hello World";
 }
 
-console.sayHello();
+console.sayHello(mother fucker);
