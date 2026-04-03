@@ -4,4 +4,4 @@ function calculateTotal(price, quantity, discount) {
 }
 `;
 
-findMaxErrors(code).then(console.log);
+findMaxErrors(codes).then(console.log);
