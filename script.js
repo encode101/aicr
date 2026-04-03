@@ -2,4 +2,4 @@ function sayHello() {
   return "Hello World";
 }
 
-console.logsayHello();
+console.sayHello();
