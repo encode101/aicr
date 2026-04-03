@@ -1,5 +1,7 @@
-function sayHello() {
-  return "Hello World";
+const code = `
+function calculateTotal(price, quantity, discount) {
+  return price * quantity * (1 - discount);
 }
+`;
 
-console.sayHello(mother fucker s);
+findMaxErrors(code).then(console.log);
